@@ -4,7 +4,8 @@
   "description": "javascript code check repository",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node-dev --respawn --transpile-only src/index.ts"
+    "start": "ts-node-dev --respawn --transpile-only src/index.ts",
+    "start1": "ts-node-dev --respawn --transpile-only src/AsyncProsess/callback.ts"
   },
   "keywords": [],
   "author": "",
