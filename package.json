@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "ts-node-dev --respawn --transpile-only src/index.ts",
-    "start1": "ts-node-dev --respawn --transpile-only src/AsyncProsess/callback.ts"
+    "start1": "ts-node-dev --respawn --transpile-only src/AsyncProsess/callback.ts",
+    "startpromise": "ts-node-dev --respawn --transpile-only src/AsyncProsess/promise.ts"
   },
   "keywords": [],
   "author": "",
