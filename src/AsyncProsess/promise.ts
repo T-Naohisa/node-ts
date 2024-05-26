@@ -5,11 +5,11 @@
  *
  * 1.returnでpromiseを返す場合
  * 表示順がtimeout,then2,resolve2,then3
- * dataの中身がpromiseでresolveが「resolve2」になる
+ * dataの中身が「resolve2」になる
  *
  * 2.returnでdataを返す場合
  * 表示順がthen2,resolve1,then3,timeout
- * dataの中身が文字列でresolveが「resolve1」になる
+ * dataの中身が「resolve1」になる
  *
  */
 
